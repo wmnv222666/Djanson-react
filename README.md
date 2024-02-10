@@ -30,9 +30,17 @@
  
  python manage.py makemigrations
  python manage.py migrate
- python manage.py runserver
+ python manage.py runserver 启动后端项目进入到cd BACKEND  1.
 
  https://www.youtube.com/watch?v=F5OUT3ijk8M
+
+
+ 下面是前端react  安装
+ 1.npx create-next-app@latest frontend
+ 
+ 
+
+https://www.youtube.com/watch?v=d_oPnD8A-lI&t=3138s
 
 
 
