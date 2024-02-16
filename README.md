@@ -1,7 +1,13 @@
+ 在虚拟的环境下安装Black 是一个自动代码格式化工具，可以帮助您确保 Python 代码符合一致的风格和格式。
+ Pylint 是一个静态代码分析工具，用于检查 Python 代码中的错误、潜在问题和代码风格违规。与 Black 不同，Pylint 不仅可以帮助您确保代码格式正确，还可以检查代码质量和风格，并提供建议来改进代码。
+ 在下载一个request 查一下
+ 
  python -m pip install virtualenv
  python -m virtualenv venv 
  venv/scripts/activate
+ <!-- python -m pip install flask -->
  python -m pip install django   or pip install Django==4.2LTS
+ django-admin startproject foldername .    /*create name for forlder*/
 
  node.js download and install
 
@@ -32,7 +38,10 @@
  python manage.py migrate
  python manage.py runserver 启动后端项目进入到cd BACKEND  1.
 
- https://www.youtube.com/watch?v=F5OUT3ijk8M
+
+ 查看django的版本 就是1.venv/scripts/activate 2.python -m django --version  
+
+
 
 
  下面是前端react  安装
@@ -40,7 +49,6 @@
  
  
 
-https://www.youtube.com/watch?v=d_oPnD8A-lI&t=3138s
 
 
 
